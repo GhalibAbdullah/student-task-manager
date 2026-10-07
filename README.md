@@ -8,3 +8,5 @@ Muhammad Abdullah bin Ghalib
 ## Current Version
 
 Initial project setup.
+
+Temporary footer for revert demonstration.
