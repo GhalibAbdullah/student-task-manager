@@ -1,4 +1,4 @@
-# Student Task Manager
+# Student Task Management Application
 
 Student Task Manager is a simple web application developed to demonstrate the use of Git and GitHub in a software development workflow.
 
