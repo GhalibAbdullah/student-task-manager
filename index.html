@@ -10,13 +10,34 @@
 <body>
 
     <div class="container">
+
         <h1>Student Task Manager</h1>
 
         <p>Manage your student tasks easily.</p>
 
+        <div class="task-form">
+
+            <input
+                type="text"
+                id="task-title"
+                placeholder="Enter task title"
+            >
+
+            <textarea
+                id="task-description"
+                placeholder="Enter task description"
+            ></textarea>
+
+            <button id="add-task-btn">
+                Add Task
+            </button>
+
+        </div>
+
         <div id="task-list">
             <p>No tasks available.</p>
         </div>
+
     </div>
 
     <script src="script.js"></script>
